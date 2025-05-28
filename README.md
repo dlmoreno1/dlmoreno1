@@ -21,30 +21,44 @@ I’m passionate about **data storytelling**, process improvement, and using ana
 
 ### 💼 What I Bring to the Table
 
-- 🔍 Strong analytical mindset with a strategic business lens
-- 📊 Expertise in dashboard development and data visualization
-- 🧰 Tools I use daily: SQL, Tableau, Power BI, Excel, Google Sheets
-- 🎯 Focus on outcomes: turning analysis into action
-- 🗣️ Proven communicator — I’ve worked cross-functionally with executives, engineers, and stakeholders to align insights with objectives
+- 🔍 Strong analytical mindset with a strategic business lens  
+- 📊 Expertise in dashboard development and data visualization  
+- 🧰 Tools I use daily: SQL, Tableau, Power BI, Excel, Google Sheets  
+- 🧠 Data storytelling for non-technical audiences  
+- 🎯 Focus on outcomes: turning analysis into action  
+- 🗣️ Proven communicator — I’ve worked cross-functionally with executives, engineers, and stakeholders to align insights with objectives  
 
-Whether it's a one-off analysis or building a full BI workflow, I deliver insights that move the needle.
+Whether it’s a one-off analysis or building a full BI workflow, I deliver insights that move the needle.
 
 ---
 
 ### 📄 View My Work
 
 - **📂 [Resume](https://docs.google.com/document/d/1FXzp3y5Vu7rkilHS43bBeFtQmn8AJn1ZJc1ViO8naKM/edit?usp=sharing)** — PDF via Google Docs  
-- **📈 [Tableau Dashboard](https://public.tableau.com/app/profile/david.moreno7786/viz/shared/FZSP966T4)** — Sales performance analysis with storytelling visuals
+- **📈 [Final TripleTen Project – Tableau Dashboard](https://public.tableau.com/app/profile/david.moreno7786/viz/shared/FZSP966T4)** — Sales performance analysis with storytelling visuals  
+- 🎥 **[Sprint 5 Video Demo – YouTube](https://www.youtube.com/watch?v=zbeYS2SxjCc)** — Final project walkthrough and dashboard insights
 
 ---
 
-### 📊 GitHub Insights
+### 🛠️ Skills & Tools
 
-![Profile Views](https://komarev.com/ghpvc/?username=dlmoreno1)
+| Category            | Tools & Tech                                       |
+|---------------------|---------------------------------------------------|
+| Data Analysis       | Excel, Google Sheets, SQL                         |
+| Visualization       | Tableau, Power BI                                 |
+| Data Cleaning       | SQL, VLOOKUP, PivotTables                         |
+| Business Tools      | PowerPoint, Google Slides, Word, Docs             |
+| Communication       | Stakeholder Engagement, Data Storytelling         |
+| Language            | Fluent in English                                 |
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dlmoreno1&show_icons=true&include_all_commits=true)](https://github.com/dlmoreno1/github-readme-stats)
+---
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dlmoreno1&layout=compact)](https://github.com/dlmoreno1/github-readme-stats)
+### ✨ Fun Facts
+
+- 🧩 I love puzzles, logic problems, and anything that challenges how I think  
+- 🍝 I’m a big fan of food — especially pasta (ask me about my Truffle Mushroom Lasagna)  
+- 💬 Always happy to talk about data, dashboards, or the best coffee in Chicago  
+- 🧠 I’m currently expanding my skills into Python and API integrations for future BI work
 
 ---
 
