@@ -56,9 +56,9 @@ Whether it’s a one-off analysis or building a full BI workflow, I deliver insi
 ### ✨ Fun Facts
 
 - 🧩 I love puzzles, logic problems, and anything that challenges how I think  
-- 🍝 I’m a big fan of food — especially pasta (ask me about my Truffle Mushroom Lasagna)  
+- 🍝 I’m a big fan of food — food is one of my favorite ways to experience culture and creativity outside of work 
 - 💬 Always happy to talk about data, dashboards, or the best coffee in Chicago  
-- 🧠 I’m currently expanding my skills into Python and API integrations for future BI work
+- 🧠 I’m always eager to grow my skillset and stay curious about emerging tools and technologies that can help me deliver even better business insights
 
 ---
 
