@@ -15,7 +15,18 @@ I'm a **Business Intelligence Analyst** with over 15 years of experience transfo
 
 Recently, I completed the **TripleTen Business Intelligence Bootcamp**, where I sharpened my technical skills with tools like **SQL**, **Tableau**, **Power BI**, and advanced **Excel** techniques. My training included hands-on projects where I built dashboards, performed deep analysis, and presented data stories that mimic real-world scenarios.
 
-I’m passionate about **data storytelling**, process improvement, and using analytics to drive operational success. My goal is to continue growing as a data professional while helping teams make better, faster, and smarter decisions.
+---
+
+### 📜 Certification
+
+🏆 **TripleTen Business Intelligence Analyst Certificate**  
+I successfully completed TripleTen’s rigorous Business Intelligence Bootcamp, covering SQL, Tableau, Power BI, and advanced Excel with real-world case projects.
+
+[👉 View My Official Certification (PDF)](./David%20Moreno%20-%20TripleTen%20BIA%20Certificate.pdf)
+
+- Issued: May 2025  
+- Credential ID: `20252BIA01839`  
+- Format: Online | Project-Based | Instructor-Guided
 
 ---
 
@@ -56,7 +67,7 @@ Whether it’s a one-off analysis or building a full BI workflow, I deliver insi
 ### ✨ Fun Facts
 
 - 🧩 I love puzzles, logic problems, and anything that challenges how I think  
-- 🍝 I’m a big fan of food — food is one of my favorite ways to experience culture and creativity outside of work 
+- 🍝 I’m a big fan of food — food is one of my favorite ways to experience culture and creativity outside of work  
 - 💬 Always happy to talk about data, dashboards, or the best coffee in Chicago  
 - 🧠 I’m always eager to grow my skillset and stay curious about emerging tools and technologies that can help me deliver even better business insights
 
