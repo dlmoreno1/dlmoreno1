@@ -22,7 +22,7 @@ Recently, I completed the **TripleTen Business Intelligence Bootcamp**, where I 
 🏆 **TripleTen Business Intelligence Analyst Certificate**  
 I successfully completed TripleTen’s rigorous Business Intelligence Bootcamp, covering SQL, Tableau, Power BI, and advanced Excel with real-world case projects.
 
-- 👉 [View My Official Certification (PDF)](./David%20Moreno%20-%20TripleTen%20BIA%20Certificate.pdf)
+- 👉 [View My Official Certification ](./David%20Moreno%20-%20TripleTen%20BIA%20Certificate.pdf)
 
 - Issued: May 2025  
 - Credential ID: `20252BIA01839`  
