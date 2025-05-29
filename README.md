@@ -1,7 +1,7 @@
 ## 👋 Hey there, I'm David L Moreno
 
 [![Gmail Badge](https://img.shields.io/badge/-dluis.cpp@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dluis.cpp@gmail.com) 
-[![LinkedIn Badge](https://img.shields.io/badge/-David%20L%20Moreno-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-l-moreno/)
+[![LinkedIn Badge](https://img.shields.io/badge/David%20L%20Moreno-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-l-moreno/)
 [![GitHub Badge](https://img.shields.io/badge/-dlmoreno1-grey?style=flat&logo=github&logoColor=white)](https://github.com/dlmoreno1/)
 [![Tableau Badge](https://img.shields.io/badge/-Tableau%20Public-E97627?style=flat&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/david.moreno7786)
 [![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=Power%20BI&logoColor=black)](https://powerbi.microsoft.com/)
