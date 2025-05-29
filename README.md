@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm David L Moreno
+## 👋 Hey there, I'm David L. Moreno
 
 [![Gmail Badge](https://img.shields.io/badge/-dluis.cpp@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:dluis.cpp@gmail.com) 
 [![LinkedIn Badge](https://img.shields.io/badge/-David%20L%20Moreno-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-l-moreno/)
