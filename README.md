@@ -45,7 +45,7 @@ Whether it’s a one-off analysis or building a full BI workflow, I deliver insi
 
 ### 📄 View My Work
 
-- **📂 [Resume](https://docs.google.com/document/d/1FXzp3y5Vu7rkilHS43bBeFtQmn8AJn1ZJc1ViO8naKM/edit?usp=sharing)** — PDF via Google Docs  
+- **📂 [Resume](https://docs.google.com/document/d/1W6M2aE9YcO6QWVvAk8i5w77wbqqEQJVFv51hbbTNdlg/edit?usp=sharing)** — PDF via Google Docs  
 - **📈 [Final TripleTen Project – Tableau Dashboard](https://public.tableau.com/app/profile/david.moreno7786/viz/shared/FZSP966T4)** — Sales performance analysis with storytelling visuals  
 - 🎥 **[Sprint 5 Video Demo – YouTube](https://www.youtube.com/watch?v=zbeYS2SxjCc)** — Final project walkthrough and dashboard insights
 
